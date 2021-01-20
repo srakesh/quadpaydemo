@@ -44,7 +44,7 @@ public class SearchService {
 		SearchResult result = new SearchResult(); 
 		RestClient restClient = null;
 		try {
-		
+			// Low level Elasticsearch REST API
 			RestClientBuilder builder = RestClient.builder(
 				    new HttpHost("localhost", 9208, "http")); //9208 - local, 9200 - 54.211.201.55
 				Header[] defaultHeaders = new Header[]{new BasicHeader("header", "value")};

@@ -1,6 +1,6 @@
 # QuadPay Search Demo
 
-The QuadPay Search Demo is a Java 8.0 maven web application that implements an Ecommerce REST API.
+The QuadPay Search Demo is a Java 8.0 maven web application that implements an Ecommerce REST API on Elasticsearch.
 
 ## Online Documentation
 
