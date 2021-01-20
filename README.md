@@ -1,6 +1,6 @@
 # QuadPay Search Demo
 
-The QuadPay Search Demo is a Java 8.0 web application that implements an Ecommerce REST API.
+The QuadPay Search Demo is a Java 8.0 maven web application that implements an Ecommerce REST API.
 
 ## Online Documentation
 
@@ -10,7 +10,7 @@ https://docs.google.com/document/d/1s57eOsTW-G1dy371p-48VnqpjfAHefW8zR1PK3uUogc/
 
 `mvn clean install`
 
-The above generates a target/quadpaydemo.war 
+The above generates a target/quadpaydemo.war. All source java files are under src/main/java/quadpaydemo folder.
 
 ## How to run
 
